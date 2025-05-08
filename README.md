@@ -11,13 +11,19 @@ The codebase showcases **how to apply annotations at scale**, meaning: how to ma
 1. Adding an annotation property to the content objects at they're loaded (see `src/utils/content.ts`)
 1. When rendering the page, each content sub-object is dynamically matched to the appropriate component. At this point, wrap each component with an annotation, based on the abovementioned content property. See `src/components/components-registry.tsx`.
 
-**⚡ Demo:** [auto-annotated-portfolio.netlify.app](https://auto-annotated-portfolio.netlify.app)
+**⚡ Demo:** [auto-annotated-portfolio.netlify.app](https://github.com/vendorah2)
 
 ## Deploying to Netlify
 
 If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/auto-annotated-portfolio)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://github.com/vendorah2)
+
+## Author
+
+Sabry Youssef  
+Email: [vendorah2@gmail.com](mailto:vendorah2@gmail.com)  
+GitHub: [Sabry Youssef](https://github.com/vendorah2)
 
 ## Getting Started
 
